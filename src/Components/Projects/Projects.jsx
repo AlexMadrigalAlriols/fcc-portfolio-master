@@ -22,7 +22,7 @@ const Projects = props => {
         </div>
         <div className="projects-wrapper">
           <Project
-            title="Espectre The Game"
+            title="Cimex The Game"
             img={EspectreImg}
             tech="js css node bootstrap"
           >
@@ -33,7 +33,7 @@ const Projects = props => {
               This is a full-stack website that I made for a education project.
             </p>
             <div className="buttons">
-              <a href="http://espectrethegame.com/" target="_blank" rel="noopener noreferrer">
+              <a href="http://cimexthegame.com/" target="_blank" rel="noopener noreferrer">
                 View Project <i className="fas fa-external-link-alt" />
               </a>
             </div>
